@@ -14,7 +14,7 @@ We need to predict the score of the student if he/she studies for 9.25 hrs/day.
 
 ## Technical : Task 2 - Prediction using Unsupervised ML (Level - Beginner)
 ### Predict the optimum number of clusters, from the given "iris" dataset and represent it visually.
-I will be implementing this with the help of K-Means Clustering algorithm. Dataset for this model can be found at : https://bit.ly/3kXTdox
+I will be implementing this with the help of K-Means Clustering algorithm. Dataset for this model can be found at : https://bit.ly/3kXTdox.
 
 ### What are we supposed to do with the given dataset?
 We need to predict the optimum number of clusters and it's visualization.
